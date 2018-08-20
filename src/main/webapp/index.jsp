@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>WebApp</title>
 </head>
 <body>
 <h2>Hello From Maven Jenkins WebApp</h2>
