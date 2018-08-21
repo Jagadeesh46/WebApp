@@ -7,7 +7,7 @@
 <title>WebApp</title>
 </head>
 <body>
-<h2>Hello From Maven Jenkins Integeration WebApp</h2>
-<h2>After changes done in eclipse</h2>
+<h1>Hello From Maven, Git, Jenkins Integeration Web Application</h1>
+
 </body>
 </html>
